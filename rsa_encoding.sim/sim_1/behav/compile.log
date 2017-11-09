@@ -1,0 +1,10 @@
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/magnus/dokumenter/design-av-digitale-system-1/rsa_encoding/rsa_encoding.srcs/sources_1/imports/design-av-digitale-system-1/RSAParameters.vhd" into library xil_defaultlib
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/magnus/dokumenter/design-av-digitale-system-1/rsa_encoding/rsa_encoding.srcs/sources_1/imports/design-av-digitale-system-1/CompDecl.vhd" into library xil_defaultlib
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/magnus/dokumenter/design-av-digitale-system-1/rsa_encoding/rsa_encoding.srcs/sources_1/new/RSAControl.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity RSAControl
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/magnus/dokumenter/design-av-digitale-system-1/rsa_encoding/rsa_encoding.srcs/sources_1/new/RSADatapath.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity RSADatapath
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/magnus/dokumenter/design-av-digitale-system-1/rsa_encoding/rsa_encoding.srcs/sources_1/new/RSACore.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity RSACore
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/magnus/dokumenter/design-av-digitale-system-1/rsa_encoding/rsa_encoding.srcs/sources_1/imports/design-av-digitale-system-1/RSACoreTestBench.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity RSACoreTestBench

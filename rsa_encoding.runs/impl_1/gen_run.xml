@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GenRun Id="impl_1" LaunchPart="xc7k70tfbv676-1" LaunchTime="1510232722">
+  <File Type="WBT-USG" Name="usage_statistics_webtalk.html"/>
+  <File Type="BG-DRC" Name="RSACoreTestBench.drc"/>
+  <File Type="BG-BGN" Name="RSACoreTestBench.bgn"/>
+  <File Type="BITSTR-SYSDEF" Name="RSACoreTestBench.sysdef"/>
+  <File Type="BITSTR-MMI" Name="RSACoreTestBench.mmi"/>
+  <File Type="BITSTR-BMM" Name="RSACoreTestBench_bd.bmm"/>
+  <File Type="BITSTR-NKY" Name="RSACoreTestBench.nky"/>
+  <File Type="BITSTR-RBT" Name="RSACoreTestBench.rbt"/>
+  <File Type="BITSTR-MSK" Name="RSACoreTestBench.msk"/>
+  <File Type="BG-BIN" Name="RSACoreTestBench.bin"/>
+  <File Type="BG-BIT" Name="RSACoreTestBench.bit"/>
+  <File Type="POSTROUTE-PHYSOPT-TIMING-RPX" Name="RSACoreTestBench_timing_summary_postroute_physopted.rpx"/>
+  <File Type="POSTROUTE-PHYSOPT-TIMING-PB" Name="RSACoreTestBench_timing_summary_postroute_physopted.pb"/>
+  <File Type="POSTROUTE-PHYSOPT-TIMING" Name="RSACoreTestBench_timing_summary_postroute_physopted.rpt"/>
+  <File Type="POSTROUTE-PHYSOPT-BLACKBOX-DCP" Name="RSACoreTestBench_postroute_physopt_bb.dcp"/>
+  <File Type="POSTROUTE-PHYSOPT-DCP" Name="RSACoreTestBench_postroute_physopt.dcp"/>
+  <File Type="ROUTE-CLK" Name="RSACoreTestBench_clock_utilization_routed.rpt"/>
+  <File Type="ROUTE-SIMILARITY" Name="RSACoreTestBench_incremental_reuse_routed.rpt"/>
+  <File Type="ROUTE-TIMING-RPX" Name="RSACoreTestBench_timing_summary_routed.rpx"/>
+  <File Type="ROUTE-TIMING-PB" Name="RSACoreTestBench_timing_summary_routed.pb"/>
+  <File Type="ROUTE-TIMINGSUMMARY" Name="RSACoreTestBench_timing_summary_routed.rpt"/>
+  <File Type="ROUTE-STATUS-PB" Name="RSACoreTestBench_route_status.pb"/>
+  <File Type="ROUTE-STATUS" Name="RSACoreTestBench_route_status.rpt"/>
+  <File Type="PLACE-CTRL" Name="RSACoreTestBench_control_sets_placed.rpt"/>
+  <File Type="PLACE-IO" Name="RSACoreTestBench_io_placed.rpt"/>
+  <File Type="PWROPT-TIMING" Name="RSACoreTestBench_timing_summary_pwropted.rpt"/>
+  <File Type="PLACE-DCP" Name="RSACoreTestBench_placed.dcp"/>
+  <File Type="PLACE-UTIL-PB" Name="RSACoreTestBench_utilization_placed.pb"/>
+  <File Type="PHYSOPT-TIMING" Name="RSACoreTestBench_timing_summary_physopted.rpt"/>
+  <File Type="PWROPT-DRC" Name="RSACoreTestBench_drc_pwropted.rpt"/>
+  <File Type="PWROPT-DCP" Name="RSACoreTestBench_pwropt.dcp"/>
+  <File Type="PLACE-UTIL" Name="RSACoreTestBench_utilization_placed.rpt"/>
+  <File Type="POSTPLACE-PWROPT-TIMING" Name="RSACoreTestBench_timing_summary_postplace_pwropted.rpt"/>
+  <File Type="OPT-TIMING" Name="RSACoreTestBench_timing_summary_opted.rpt"/>
+  <File Type="OPT-HWDEF" Name="RSACoreTestBench.hwdef"/>
+  <File Type="PLACE-CLK" Name="RSACoreTestBench_clock_utilization_placed.rpt"/>
+  <File Type="RDI-RDI" Name="RSACoreTestBench.vdi"/>
+  <File Type="PLACE-TIMING" Name="RSACoreTestBench_timing_summary_placed.rpt"/>
+  <File Type="INIT-TIMING" Name="RSACoreTestBench_timing_summary_init.rpt"/>
+  <File Type="OPT-DRC" Name="RSACoreTestBench_drc_opted.rpt"/>
+  <File Type="OPT-DCP" Name="RSACoreTestBench_opt.dcp"/>
+  <File Type="OPT-METHODOLOGY-DRC" Name="RSACoreTestBench_methodology_drc_opted.rpt"/>
+  <File Type="PLACE-PRE-SIMILARITY" Name="RSACoreTestBench_incremental_reuse_pre_placed.rpt"/>
+  <File Type="PLACE-SIMILARITY" Name="RSACoreTestBench_incremental_reuse_placed.rpt"/>
+  <File Type="PA-TCL" Name="RSACoreTestBench.tcl"/>
+  <File Type="POSTPLACE-PWROPT-DCP" Name="RSACoreTestBench_postplace_pwropt.dcp"/>
+  <File Type="PHYSOPT-DCP" Name="RSACoreTestBench_physopt.dcp"/>
+  <File Type="PHYSOPT-DRC" Name="RSACoreTestBench_drc_physopted.rpt"/>
+  <File Type="ROUTE-ERROR-DCP" Name="RSACoreTestBench_routed_error.dcp"/>
+  <File Type="ROUTE-DCP" Name="RSACoreTestBench_routed.dcp"/>
+  <File Type="ROUTE-BLACKBOX-DCP" Name="RSACoreTestBench_routed_bb.dcp"/>
+  <File Type="ROUTE-DRC" Name="RSACoreTestBench_drc_routed.rpt"/>
+  <File Type="ROUTE-METHODOLOGY-DRC" Name="RSACoreTestBench_methodology_drc_routed.rpt"/>
+  <File Type="ROUTE-DRC-PB" Name="RSACoreTestBench_drc_routed.pb"/>
+  <File Type="ROUTE-METHODOLOGY-DRC-PB" Name="RSACoreTestBench_methodology_drc_routed.pb"/>
+  <File Type="ROUTE-DRC-RPX" Name="RSACoreTestBench_drc_routed.rpx"/>
+  <File Type="ROUTE-PWR" Name="RSACoreTestBench_power_routed.rpt"/>
+  <File Type="ROUTE-METHODOLOGY-DRC-RPX" Name="RSACoreTestBench_methodology_drc_routed.rpx"/>
+  <File Type="ROUTE-PWR-SUM" Name="RSACoreTestBench_power_summary_routed.pb"/>
+  <File Type="ROUTE-PWR-RPX" Name="RSACoreTestBench_power_routed.rpx"/>
+  <FileSet Name="sources" Type="DesignSrcs" RelSrcDir="$PSRCDIR/sources_1">
+    <Filter Type="Srcs"/>
+    <File Path="$PSRCDIR/sources_1/imports/design-av-digitale-system-1/RSAParameters.vhd">
+      <FileInfo>
+        <Attr Name="ImportPath" Val="$PPRDIR/../RSAParameters.vhd"/>
+        <Attr Name="ImportTime" Val="1099404264"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/imports/design-av-digitale-system-1/CompDecl.vhd">
+      <FileInfo>
+        <Attr Name="ImportPath" Val="$PPRDIR/../CompDecl.vhd"/>
+        <Attr Name="ImportTime" Val="1130492206"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/RSAControl.vhd">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/RSADatapath.vhd">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/RSACore.vhd">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/imports/design-av-digitale-system-1/RSACoreTestBench.vhd">
+      <FileInfo>
+        <Attr Name="ImportPath" Val="$PPRDIR/../RSACoreTestBench.vhd"/>
+        <Attr Name="ImportTime" Val="1099404264"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <Config>
+      <Option Name="DesignMode" Val="RTL"/>
+      <Option Name="TopModule" Val="RSACoreTestBench"/>
+      <Option Name="TopAutoSet" Val="TRUE"/>
+    </Config>
+  </FileSet>
+  <FileSet Name="constrs_in" Type="Constrs" RelSrcDir="$PSRCDIR/constrs_1">
+    <Filter Type="Constrs"/>
+    <Config>
+      <Option Name="ConstrsType" Val="XDC"/>
+    </Config>
+  </FileSet>
+  <Strategy Version="1" Minor="2">
+    <StratHandle Name="Vivado Implementation Defaults" Flow="Vivado Implementation 2017"/>
+    <Step Id="init_design"/>
+    <Step Id="opt_design"/>
+    <Step Id="power_opt_design"/>
+    <Step Id="place_design"/>
+    <Step Id="post_place_power_opt_design"/>
+    <Step Id="phys_opt_design"/>
+    <Step Id="route_design"/>
+    <Step Id="post_route_phys_opt_design"/>
+    <Step Id="write_bitstream"/>
+  </Strategy>
+</GenRun>

@@ -1,0 +1,15 @@
+#-----------------------------------------------------------
+# Webtalk v2017.2.1 (64-bit)
+# SW Build 1957588 on Wed Aug  9 16:32:10 MDT 2017
+# IP Build 1948039 on Wed Aug  9 18:19:28 MDT 2017
+# Start of session at: Fri Nov 10 00:36:07 2017
+# Process ID: 16959
+# Current directory: /home/magnus/dokumenter/design-av-digitale-system-1/rsa_encoding/rsa_encoding.sim/sim_1/behav
+# Command line: wbtcv -mode batch -source /home/magnus/dokumenter/design-av-digitale-system-1/rsa_encoding/rsa_encoding.sim/sim_1/behav/xsim.dir/RSACoreTestBench_behav/webtalk/xsim_webtalk.tcl -notrace
+# Log file: /home/magnus/dokumenter/design-av-digitale-system-1/rsa_encoding/rsa_encoding.sim/sim_1/behav/webtalk.log
+# Journal file: /home/magnus/dokumenter/design-av-digitale-system-1/rsa_encoding/rsa_encoding.sim/sim_1/behav/webtalk.jou
+#-----------------------------------------------------------
+source /home/magnus/dokumenter/design-av-digitale-system-1/rsa_encoding/rsa_encoding.sim/sim_1/behav/xsim.dir/RSACoreTestBench_behav/webtalk/xsim_webtalk.tcl -notrace
+INFO: [Common 17-186] '/home/magnus/dokumenter/design-av-digitale-system-1/rsa_encoding/rsa_encoding.sim/sim_1/behav/xsim.dir/RSACoreTestBench_behav/webtalk/usage_statistics_ext_xsim.xml' has been successfully sent to Xilinx on Fri Nov 10 00:36:13 2017. For additional details about this file, please refer to the WebTalk help file at /opt/Xilinx/Vivado/2017.2/doc/webtalk_introduction.html.
+webtalk_transmit: Time (s): cpu = 00:00:02 ; elapsed = 00:00:06 . Memory (MB): peak = 242.141 ; gain = 0.000 ; free physical = 1055 ; free virtual = 11598
+INFO: [Common 17-206] Exiting Webtalk at Fri Nov 10 00:36:13 2017...

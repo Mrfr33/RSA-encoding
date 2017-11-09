@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="RSACoreTestBench_behav.wdb" id="1">
+         <top_modules>
+            <top_module name="RSACoreTestBench" />
+            <top_module name="compdecl" />
+            <top_module name="rsaparameters" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <zoom_setting>
+      <ZoomStartTime time="3464776000fs"></ZoomStartTime>
+      <ZoomEndTime time="4230776001fs"></ZoomEndTime>
+      <Cursor1Time time="3972276000fs"></Cursor1Time>
+   </zoom_setting>
+   <column_width_setting>
+      <NameColumnWidth column_width="175"></NameColumnWidth>
+      <ValueColumnWidth column_width="114"></ValueColumnWidth>
+   </column_width_setting>
+   <WVObjectSize size="21" />
+   <wvobject type="logic" fp_name="/RSACoreTestBench/Clk">
+      <obj_property name="ElementShortName">Clk</obj_property>
+      <obj_property name="ObjectShortName">Clk</obj_property>
+   </wvobject>
+   <wvobject type="logic" fp_name="/RSACoreTestBench/Resetn">
+      <obj_property name="ElementShortName">Resetn</obj_property>
+      <obj_property name="ObjectShortName">Resetn</obj_property>
+   </wvobject>
+   <wvobject type="logic" fp_name="/RSACoreTestBench/InitRsa">
+      <obj_property name="ElementShortName">InitRsa</obj_property>
+      <obj_property name="ObjectShortName">InitRsa</obj_property>
+   </wvobject>
+   <wvobject type="logic" fp_name="/RSACoreTestBench/StartRsa">
+      <obj_property name="ElementShortName">StartRsa</obj_property>
+      <obj_property name="ObjectShortName">StartRsa</obj_property>
+   </wvobject>
+   <wvobject type="logic" fp_name="/RSACoreTestBench/R/datapath/crypt_en">
+      <obj_property name="ElementShortName">crypt_en</obj_property>
+      <obj_property name="ObjectShortName">crypt_en</obj_property>
+   </wvobject>
+   <wvobject type="logic" fp_name="/RSACoreTestBench/R/datapath/input_reg_en">
+      <obj_property name="ElementShortName">input_reg_en</obj_property>
+      <obj_property name="ObjectShortName">input_reg_en</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="/RSACoreTestBench/R/datapath/input_r">
+      <obj_property name="ElementShortName">input_r[127:0]</obj_property>
+      <obj_property name="ObjectShortName">input_r[127:0]</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="/RSACoreTestBench/DataIn">
+      <obj_property name="ElementShortName">DataIn[31:0]</obj_property>
+      <obj_property name="ObjectShortName">DataIn[31:0]</obj_property>
+   </wvobject>
+   <wvobject type="logic" fp_name="/RSACoreTestBench/R/datapath/output_reg_en">
+      <obj_property name="ElementShortName">output_reg_en</obj_property>
+      <obj_property name="ObjectShortName">output_reg_en</obj_property>
+   </wvobject>
+   <wvobject type="logic" fp_name="/RSACoreTestBench/R/datapath/output_reg_load">
+      <obj_property name="ElementShortName">output_reg_load</obj_property>
+      <obj_property name="ObjectShortName">output_reg_load</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="/RSACoreTestBench/R/datapath/output_r">
+      <obj_property name="ElementShortName">output_r[127:0]</obj_property>
+      <obj_property name="ObjectShortName">output_r[127:0]</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="/RSACoreTestBench/DataOut">
+      <obj_property name="ElementShortName">DataOut[31:0]</obj_property>
+      <obj_property name="ObjectShortName">DataOut[31:0]</obj_property>
+   </wvobject>
+   <wvobject type="logic" fp_name="/RSACoreTestBench/R/datapath/init_reg_en">
+      <obj_property name="ElementShortName">init_reg_en</obj_property>
+      <obj_property name="ObjectShortName">init_reg_en</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="/RSACoreTestBench/R/datapath/keye_r">
+      <obj_property name="ElementShortName">keye_r[127:0]</obj_property>
+      <obj_property name="ObjectShortName">keye_r[127:0]</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="/RSACoreTestBench/R/datapath/keyn_r">
+      <obj_property name="ElementShortName">keyn_r[127:0]</obj_property>
+      <obj_property name="ObjectShortName">keyn_r[127:0]</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="/RSACoreTestBench/R/datapath/parx_r">
+      <obj_property name="ElementShortName">parx_r[127:0]</obj_property>
+      <obj_property name="ObjectShortName">parx_r[127:0]</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="/RSACoreTestBench/R/datapath/pary_r">
+      <obj_property name="ElementShortName">pary_r[127:0]</obj_property>
+      <obj_property name="ObjectShortName">pary_r[127:0]</obj_property>
+   </wvobject>
+   <wvobject type="logic" fp_name="/RSACoreTestBench/CoreFinished">
+      <obj_property name="ElementShortName">CoreFinished</obj_property>
+      <obj_property name="ObjectShortName">CoreFinished</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="/RSACoreTestBench/PlainText">
+      <obj_property name="ElementShortName">PlainText[127:0]</obj_property>
+      <obj_property name="ObjectShortName">PlainText[127:0]</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="/RSACoreTestBench/CipherText">
+      <obj_property name="ElementShortName">CipherText[127:0]</obj_property>
+      <obj_property name="ObjectShortName">CipherText[127:0]</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="/RSACoreTestBench/Result">
+      <obj_property name="ElementShortName">Result[127:0]</obj_property>
+      <obj_property name="ObjectShortName">Result[127:0]</obj_property>
+   </wvobject>
+</wave_config>

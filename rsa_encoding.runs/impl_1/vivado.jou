@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2017.2.1 (64-bit)
+# SW Build 1957588 on Wed Aug  9 16:32:10 MDT 2017
+# IP Build 1948039 on Wed Aug  9 18:19:28 MDT 2017
+# Start of session at: Thu Nov  9 14:05:25 2017
+# Process ID: 6554
+# Current directory: /home/magnus/dokumenter/design-av-digitale-system-1/rsa_encoding/rsa_encoding.runs/impl_1
+# Command line: vivado -log RSACoreTestBench.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source RSACoreTestBench.tcl -notrace
+# Log file: /home/magnus/dokumenter/design-av-digitale-system-1/rsa_encoding/rsa_encoding.runs/impl_1/RSACoreTestBench.vdi
+# Journal file: /home/magnus/dokumenter/design-av-digitale-system-1/rsa_encoding/rsa_encoding.runs/impl_1/vivado.jou
+#-----------------------------------------------------------
+source RSACoreTestBench.tcl -notrace
