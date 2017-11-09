@@ -1,2 +1,3 @@
 # RSA-encoding
-Semesteroppgave i Design av Digitale System 1
+The term project is a system which performes RSA encryption and decryption. <br/>
+Written in VHDL. Using Vivado.
